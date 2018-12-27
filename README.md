@@ -10,7 +10,7 @@
 
 ## Para anexar ao seu projeto Laravel
 
-###Linux
+### Linux
 1. Acesse a pasta "resources/lang" do seu projeto.
 2. Baixe os dados "git clone https://github.com/AdelinoLSN/Laravel5.7-Lang-ptBR.git ./pt-BR" (dessa forma, os dados ficarão dentro da pasta com o nome correto).
 3. Remover o diretório oculto ".git" de dentro da pasta "pt-BR": "rm -rf pt-BR/.git/".
@@ -18,5 +18,5 @@
 5. Dê um reset no cache: "php artisan config:cache"
 6. Reinicie o Apache.
 
-###Windows
+### Windows
 Em construção.
